@@ -2,7 +2,7 @@
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
 workshop_repo   : "http://github.com/swcarpentry/1783-01-01-Paris"
-workshop_site   : "http://swcarpentry.github.io/1783-01-01-Paris"
+workshop_site   : "http://montoyjh.github.io/1783-01-01-Paris"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
